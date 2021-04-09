@@ -1,0 +1,14 @@
+{
+	"mysql": {
+		"addr": "192.168.89.177:18080",
+		"mgo_idle_count": 1,
+		"mgo_active_count": 1,
+		"mgo_idle_timeout": 10
+	}
+	"addr": "192.168.89.177:18080",
+	"log": {
+		"path": "./",
+		"level": 0,
+		"unit": "week"
+	}
+}
